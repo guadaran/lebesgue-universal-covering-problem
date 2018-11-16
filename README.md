@@ -8,7 +8,7 @@ The original code live [here](https://github.com/PhilipGibbs/Lebesgue)
 
 In 1914 [Henri Lebesgue](https://en.wikipedia.org/wiki/Henri_Lebesgue) defined a **'universal covering'** to be a convex subset
 of the plane that contains an isometric copy of any subset of **diameter 1.** 
-His challenge of finding a universal covering with the least possible area has been addressed by various mathematicians: [Pál](https://en.wikipedia.org/wiki/Pál_Turán), Sprague and H.C Hansen have each created a smaller universal covering by removing regions from those known before.  However, Hansen's last reduction was microsopic: he claimed to remove an area of 6⋅10−18, but we show that he actually removed an area of just 8⋅10−21.  In the following, with the help of Greg Egan, we find a new, smaller universal covering with area less than 0.8441153. This reduces the area of the previous best universal covering by 2.2⋅10−5.
+His challenge of finding a universal covering with the least possible area has been addressed by various mathematicians: Pál, Sprague and H.C Hansen have each created a smaller universal covering by removing regions from those known before.  However, Hansen's last reduction was microsopic: he claimed to remove an area of 6⋅10−18, but we show that he actually removed an area of just 8⋅10−21.  In the following, with the help of Greg Egan, we find a new, smaller universal covering with area less than 0.8441153. This reduces the area of the previous best universal covering by 2.2⋅10−5.
 
 The program is not very long. Please study it, add some test cases to this program or write your own, in your own favorite language! 
 
