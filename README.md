@@ -2,6 +2,8 @@
 
 The Lebesgue universal covering problem. Philip Gibbs [code](http://math.ucr.edu/home/baez/mathematical/lebesgue.java) to compute the area for many choices of rotation angle.  
 
+The original code live [here](https://github.com/PhilipGibbs/Lebesgue)
+
 ## About
 
 In 1914 [Henri Lebesgue](https://en.wikipedia.org/wiki/Henri_Lebesgue) defined a **'universal covering'** to be a convex subset
