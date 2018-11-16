@@ -65,7 +65,7 @@ The output of the program is here:
 * [The Lebesgue universal covering problem (John C. Baez, Karine Bagdasaryan, Philip Gibbs - 2015)](http://jocg.org/v6n1p12)
 * [An upper bound for Lebesgue’s universal covering problem (Philip Gibbs - 2018)](http://vixra.org/abs/1801.0292)
 * [Amateur Mathematician Finds Smallest Universal Cover (Popular article on this topic)](https://www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/)
+* [Amateur Mathematician Finds Smallest Universal Cover (Hacker News)](https://news.ycombinator.com/item?id=18460853)
 * [References related to Lebesgue's Universal Covering Problem](https://github.com/PhilipGibbs/Lebesgue/blob/master/References.md#h-g-eggleston-minimal-universal-covers-in-en-isreal-j-of-math-1963)
 * [Lebesgue's universal covering problem - Wikipedia](https://en.wikipedia.org/wiki/Lebesgue's_universal_covering_problem)
 * [Lebesgue Universal Covering Problem (ResearchGate)](https://www.researchgate.net/project/Lebesgue-Universal-Covering-Problem)
-* [Amateur Mathematician Finds Smallest Universal Cover (Hacker News)](https://news.ycombinator.com/item?id=18460853)
