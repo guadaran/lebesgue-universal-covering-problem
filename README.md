@@ -60,7 +60,7 @@ The output of the program is here:
 * [Lebesgue’s Universal Covering Problem (Part 2 - 2015)](https://johncarlosbaez.wordpress.com/2015/02/03/lebesgues-universal-covering-problem-part-2/)
 * [Lebesgue’s Universal Covering Problem (Part 3 - 2018)](https://johncarlosbaez.wordpress.com/2018/10/07/lebesgue-universal-covering-problem-part-3/)
 * [Lebesgue's universal covering problem - Wikipedia](https://en.wikipedia.org/wiki/Lebesgue's_universal_covering_problem)
-* [Lebesgue Universal Covering Problem (ResearchGate)](https://www.researchgate.net/project/Lebesgue-Universal-Covering-Problem)
+* [Lebesgue's universal covering problem (ResearchGate)](https://www.researchgate.net/project/Lebesgue-Universal-Covering-Problem)
 * [The Lebesgue universal covering problem (John C. Baez, Karine Bagdasaryan, Philip Gibbs - 2015)](http://jocg.org/v6n1p12)
 * [A lower bound for Lebesgue's universal cover problem (Peter Brass and Mehrnod Sharifi - 2005)](http://www.cs.cmu.edu/~mehrbod/UC05.pdf)
 * [An upper bound for Lebesgue’s universal covering problem (Philip Gibbs - 2018)](http://vixra.org/abs/1801.0292)
