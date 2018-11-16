@@ -1,8 +1,6 @@
 # Lebesgue’s Universal Covering Problem
 
-The Lebesgue universal covering problem. Philip Gibbs [code](http://math.ucr.edu/home/baez/mathematical/lebesgue.java) to compute the area for many choices of rotation angle.  
-
-The original code live [here](https://github.com/PhilipGibbs/Lebesgue)
+The Lebesgue universal covering problem. Philip Gibbs code (The original code live [here](https://github.com/PhilipGibbs/Lebesgue)) to compute the area for many choices of rotation angle.  
 
 ## About
 
